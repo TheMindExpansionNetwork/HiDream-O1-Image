@@ -1,6 +1,6 @@
 torch
 torchvision
-transformers
+transformers==4.57.1
 diffusers
 accelerate
 einops
@@ -9,3 +9,4 @@ pillow
 tqdm
 scipy
 flask
+openai
